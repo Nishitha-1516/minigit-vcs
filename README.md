@@ -3,7 +3,7 @@
 > A from-scratch, production-quality implementation of core version control concepts in **C++17**.  
 > No external VCS libraries. No shortcuts. Every byte of storage designed intentionally.
 
-Built as a systems programming deep-dive — demonstrating file system design, cryptographic hashing, graph traversal, OOP architecture, and classic algorithms. Resume-worthy and interview-ready.
+Built as a systems programming deep-dive — demonstrating file system design, cryptographic hashing, graph traversal, OOP architecture, and classic algorithms. 
 
 ---
 
